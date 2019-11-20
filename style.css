@@ -1,0 +1,20 @@
+ul li.checked{
+    background: #888;
+    color: #fff;
+    text-decoration: line-through;
+}
+.close{
+    position: absolute;
+    right: 0;
+    top: 0;
+    padding: 12px 16px 12px 16px; 
+}
+ul li:hover{
+    cursor: pointer;
+}
+#hepsiniSil{
+    position: absolute;
+    right: 0;
+    top: 0;
+    margin: 5px 10px 5px 3px;
+}
